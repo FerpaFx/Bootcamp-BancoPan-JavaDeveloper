@@ -21,3 +21,7 @@
 4.  Por fim, digite o comando `git push` para sincronizar as alterações do seu repositório local com o GitHub.
 
 
+## Obs:
+
+1. Usar git pull e git push requests caso precise fazer uma sincronizaçao inversa
+
