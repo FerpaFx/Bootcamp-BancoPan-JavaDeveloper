@@ -1,5 +1,3 @@
-package Java.Sintaxe.Tipos.Variaveis.TiposVariaveis;
-
 public class TiposVariaveis {
     public static void main (String[] args) throws Exception {
        //tipos primitivos
